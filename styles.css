@@ -1,0 +1,23 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(248, 170, 170);
+}
+
+.logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1 {
+    text-align: center;
+}
+
+.main.list {
+    display: table;
+    margin: 0 auto;
+}
+
+li {
+    text-align: left;
+}
